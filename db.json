@@ -274,61 +274,6 @@
             "next_service_date": "2022-01-01",
             "service_type": "Revisión",
             "service_status": "Realizado"
-        },
-        {
-            "id": 26,
-            "acquisition_date": "2020-02-23",
-            "name": "Pizarra Scrum",
-            "unique_id": "0000011",
-            "plate": "0000231",
-            "serial": "x0002",
-            "next_service_date": "2020-06-01",
-            "service_type": "Reparación",
-            "service_status": "Pendiente"
-        },
-        {
-            "id": 27,
-            "acquisition_date": "2020-03-20",
-            "name": "Libro PHP",
-            "unique_id": "0118382",
-            "plate": "0hhx113",
-            "serial": "90099839",
-            "next_service_date": "2021-06-01",
-            "service_type": "Revisión",
-            "service_status": "Pendiente"
-        },
-        {
-            "id": 28,
-            "acquisition_date": "2020-01-20",
-            "name": "Computadora HP",
-            "unique_id": "00000x3",
-            "plate": "83xxsd02",
-            "serial": "za222032",
-            "next_service_date": "2021-06-01",
-            "service_type": "Revisión",
-            "service_status": "Pendiente"
-        },
-        {
-            "id": 29,
-            "acquisition_date": "2020-01-20",
-            "name": "Proyector Intel",
-            "unique_id": "sss222",
-            "plate": "232323232",
-            "serial": "xxxledj2",
-            "next_service_date": "2024-06-01",
-            "service_type": "Mantenimiento",
-            "service_status": "A Realizar"
-        },
-        {
-            "id": 30,
-            "acquisition_date": "2020-01-01",
-            "name": "Silla Oficina",
-            "unique_id": "123456",
-            "plate": "121212",
-            "serial": "ABC",
-            "next_service_date": "2021-01-01",
-            "service_type": "Mantenimiento",
-            "service_status": "Pendiente"
         }
     ],
     "services_status": [
